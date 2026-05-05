@@ -3,8 +3,6 @@
 
 ## UTS_Big-Data
 
-## Identitas
-
 Nama: Mulana  
 NIM: 14022300030  
 Prodi: Sistem Informasi  
