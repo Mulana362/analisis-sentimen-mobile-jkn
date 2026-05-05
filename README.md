@@ -26,9 +26,11 @@ Jumlah data: 1000 komentar.
 - `sentimen`: hasil klasifikasi sentimen
 - `confidence`: tingkat keyakinan model
 
-## Model
+## Metode Analisis
 
-Analisis sentimen menggunakan model:
+Analisis sentimen dilakukan menggunakan pendekatan Natural Language Processing (NLP) dengan model IndoRoBERTa dari Wilson Wongso.
+
+Model yang digunakan:
 
 `w11wo/indonesian-roberta-base-sentiment-classifier`
 
