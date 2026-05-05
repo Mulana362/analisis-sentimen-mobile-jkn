@@ -1,6 +1,14 @@
 
 # Analisis Sentimen Mobile JKN
 
+## UTS_Big-Data
+
+Nama: Mulana
+NIM: 14022300030
+Prodi: Sistem Informasi 
+
+## Deskripsi Project
+
 Project ini berisi analisis sentimen komentar pengguna aplikasi Mobile JKN dari Google Play Store.
 
 ## Dataset
@@ -25,6 +33,7 @@ Analisis sentimen menggunakan model:
 `w11wo/indonesian-roberta-base-sentiment-classifier`
 
 Model ini mengklasifikasikan komentar menjadi:
+
 - positive
 - negative
 - neutral
